@@ -26,7 +26,7 @@
 - [dsh-payload-capture](https://github.com/Moeblack/dsh-payload-capture) — 捕捉每次上行模型 API payload 落盘 JSON（调试/可观测） · `dsh plugin add dsh-payload-capture`
 - [dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) — 让 AI 帮你连数据库、写 SQL ⭐196 · `dsh plugin add @deepseek-ai/dsh-data-agent`
 - [dsh-openapi](https://github.com/Degurechaff57/dsh-openapi) — Safe OpenAPI 3.x 发现与 API 调用工具 ⭐3 · `dsh plugin add dsh-openapi`
-- [dsh-plugin-interpreters](https://github.com/HuanLinOTO/dsh-plugin-interpreters) — 暴露 run_python / run_node 工具，可配置解释器路径 ⭐10 · `dsh plugin add @huanlin/dsh-plugin-interpreters`
+- [dsh-plugin-interpreters](https://github.com/HuanLinOTO/dsh-plugin-interpreters) — 暴露 run_python / run_node 工具，可配置解释器路径 ⭐9 · `dsh plugin add @huanlin/dsh-plugin-interpreters`
 - [dsh-cowork](https://github.com/Jesse-njx/dsh-cowork) — doc_read/doc_write：以有界、单元格寻址方式读写 xlsx/pdf/docx/pptx/ipynb ⭐4
 - [dsh-plugin-mineru](https://github.com/HuanLinOTO/dsh-plugin-mineru) — 向模型暴露 MineRU 文档解析工具 ⭐47 · `dsh plugin add @huanlin/dsh-plugin-mineru`
 - [dsh-plugin-sleep](https://github.com/HuanLinOTO/dsh-plugin-sleep) — 暴露单个 `sleep` 工具，让模型按需暂停（支持取消） ⭐9 · `dsh plugin add @huanlin/dsh-plugin-sleep`
