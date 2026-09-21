@@ -10,7 +10,6 @@
 - [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) — DSH 终端 TUI（天枢） ⭐281 · `dsh plugin add @huiliyi37/dsh-tianshu-tui`
 - [dsh-pi-tui](https://github.com/lqhl/dsh-pi-tui) — Pi TUI 前端：流式 markdown、思考折叠、工具卡、斜杠命令 ⭐2
 - [deepseek-harness-tui](https://github.com/gxinxing/deepseek-harness-tui) — Ink/React 终端原生 TUI ⭐11 · `dsh plugin add deepseek-harness-tui`
-- [dsh-tui](https://github.com/orriduck/dsh-tui) — 轻量、会话感知的终端 UI ⭐3 · `dsh plugin add dsh-tui`
 - [dsh-tui](https://github.com/dsh-tui/dsh-tui) — Claude Code 风格终端 UI（out-of-tree bundle） ⭐32 · `dsh plugin add @dsh-tui/dsh-tui`
 
 ## 社区发行版

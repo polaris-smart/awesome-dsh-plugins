@@ -5,7 +5,7 @@
 ## [Unreleased]
 
 ### Added
-- 新增 [docs/reconcile.md](docs/reconcile.md)：数据 vs 目录的自动对账报告（`scripts/reconcile.mjs`）
+- 新增 `docs/reconcile.md`：数据 vs 目录的自动对账报告（`scripts/reconcile.mjs`）
 - 新增 [data/taxonomy.json](data/taxonomy.json)：14 类分类的单一真源，脚本统一读取
 - 新增 [scripts/probe-stars.mjs](scripts/probe-stars.mjs)：直接探测 GitHub 实时 star，不再依赖上游快照
 - README 折叠区与 INDEX 改为表格呈现；Hot Plugins 排行榜按 star 自动生成
@@ -37,7 +37,7 @@
 - README 内联折叠浏览全部插件（`<details>/<summary>`），保留分类目录表
 - 每条插件附 GitHub star 数与安装命令 `dsh plugin add <pkg>`
 - 全量单文件索引 [INDEX.md](INDEX.md)（287 条，便于 `Ctrl+F` 全局搜索）
-- 机器可读数据 [data/plugins.json](data/plugins.json)（334 条种子数据）+ 字段说明 [data/README.md](data/README.md)
+- 机器可读数据 `data/plugins.json`（334 条种子数据）+ 字段说明 `data/README.md`
 - 生成脚本：`enrich.mjs`（补 star/安装命令/导航）、`gen-index.mjs`（总索引）、`gen-readme.mjs`（折叠区）
 - CI：[validate.yml](.github/workflows/validate.yml)（数据校验）、[sync.yml](.github/workflows/sync.yml)（定时同步上游数据）
 - 贡献指南 [CONTRIBUTING.md](CONTRIBUTING.md)、行为准则 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)、PR/Issue 模板

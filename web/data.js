@@ -1,12 +1,12 @@
 // 由 scripts/gen-web-data.mjs 自动生成，请勿手改。
 window.__DSH_DATA__ = {
-  "generatedAt": "2026-09-21T08:41:05.145Z",
+  "generatedAt": "2026-09-21T15:22:53.877Z",
   "source": "scripts/gen-web-data.mjs",
   "stats": {
-    "plugins": 306,
+    "plugins": 304,
     "categories": 14,
-    "withInstall": 234,
-    "withStars": 283
+    "withInstall": 233,
+    "withStars": 281
   },
   "categories": [
     {
@@ -1054,16 +1054,6 @@ window.__DSH_DATA__ = {
       "category": "ui-themes"
     },
     {
-      "name": "dsh-what-changed",
-      "url": "https://github.com/sjh9714/dsh-what-changed",
-      "owner": "sjh9714",
-      "repo": "dsh-what-changed",
-      "description": "会话顶栏一屏看完整会话改动，列出 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动 · `dsh plugin --profile web add dsh-what-changed`",
-      "stars": 2,
-      "install": null,
-      "category": "ui-themes"
-    },
-    {
       "name": "dsh-easyrewrite",
       "url": "https://github.com/Renzic-Stone/DSH-EasyRewrite",
       "owner": "Renzic-Stone",
@@ -1161,16 +1151,6 @@ window.__DSH_DATA__ = {
       "description": "Ink/React 终端原生 TUI",
       "stars": 11,
       "install": "dsh plugin add deepseek-harness-tui",
-      "category": "desktop-tui-mobile"
-    },
-    {
-      "name": "dsh-tui",
-      "url": "https://github.com/orriduck/dsh-tui",
-      "owner": "orriduck",
-      "repo": "dsh-tui",
-      "description": "轻量、会话感知的终端 UI",
-      "stars": 3,
-      "install": "dsh plugin add dsh-tui",
       "category": "desktop-tui-mobile"
     },
     {
