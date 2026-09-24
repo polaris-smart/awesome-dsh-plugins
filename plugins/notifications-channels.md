@@ -7,15 +7,15 @@
 - [telegram](https://github.com/LoserFox/telegram) — Telegram Bot API 桥接：长轮询、per-chat 会话、HTML 格式化 ⭐7 · `dsh plugin add @loserfox/telegram`
 - [dsh-telegram](https://github.com/ben7am1n/dsh-telegram) — Telegram 运行时适配器（per-chat 会话、allowlist 认证） ⭐3 · `dsh plugin add dsh-telegram`
 - [DSH-Telegram-Relay](https://github.com/congchuanling-dot/DSH-Telegram-Relay) — 通过 Telegram 远程对话并接收通知 ⭐4 · `dsh plugin add dsh-telegram-relay`
-- [dsh-chatnode-wechat](https://github.com/Jesse-njx/dsh-chatnode-wechat) — 通过 iLink 网关在微信里与 DSH agent 聊天/监控/审批 ⭐6 · `dsh plugin add @dsh-cowork/chatnode-wechat`
+- [dsh-chatnode-wechat](https://github.com/Jesse-njx/dsh-chatnode-wechat) — 通过 iLink 网关在微信里与 DSH agent 聊天/监控/审批 ⭐5 · `dsh plugin add @dsh-cowork/chatnode-wechat`
 - [dsh-lark-bridge](https://github.com/imetn/dsh-lark-bridge) — 双向飞书控制器 ⭐6 · `dsh plugin add dsh-lark-bridge`
 - [dsh-onlyne](https://github.com/dbydd/dsh-onlyne) — IM 网关：从 dsh 会话收发 QQ/微信/飞书/Telegram 消息 ⭐1
-- [dsh-im](https://github.com/xmanrui/dsh-im) — 一个设置入口统一接入飞书/微信/钉钉/企业微信/QQ/Slack/Telegram/Discord/WhatsApp 机器人，支持扫码、Manifest 或凭据绑定 · `npx -y github:xmanrui/dsh-im install` ⭐1462
+- [dsh-im](https://github.com/xmanrui/dsh-im) — 一个设置入口统一接入飞书/微信/钉钉/企业微信/QQ/Slack/Telegram/Discord/WhatsApp 机器人，支持扫码、Manifest 或凭据绑定 · `npx -y github:xmanrui/dsh-im install` ⭐1461
 
 ## 通知
 
 - [dsh-notification](https://github.com/omdsh-dev/dsh-notification) — 回合完成桌面通知，按结果分控 + 关键词过滤 ⭐83 · `dsh plugin add dsh-notification`
-- [dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) — Windows 通知（零依赖） ⭐7
+- [dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) — Windows 通知（零依赖） ⭐8
 - [dsh-win-notify](https://github.com/MuziIsabel/dsh-win-notify) — Windows toast 通知（任务完成带声音） ⭐3 · `dsh plugin add dsh-win-notify`
 - [dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) — 桌面通知提醒 ⭐29 · `dsh plugin add @bill9109/dsh-web-ui-notify`
 - [dsh-session-notification](https://github.com/dingyi222666/dsh-session-notification) — 会话完成等四种状态通知，支持浏览器提示 ⭐22 · `dsh plugin add @dingyi222666/dsh-session-notification`
