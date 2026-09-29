@@ -4,7 +4,7 @@
 
 ## 游戏
 
-- [dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku) — 与 AI 下五子棋，也可双 AI 对弈比棋力 ⭐25 · `dsh plugin add @deepseek-ai/dsh-gomoku`
+- [dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku) — 与 AI 下五子棋，也可双 AI 对弈比棋力 ⭐26 · `dsh plugin add @deepseek-ai/dsh-gomoku`
 - [dsh-minigames](https://github.com/lhh010/dsh-minigames) — 右侧 18 款离线小游戏面板（恐龙跳一跳/俄罗斯方块/扫雷/2048…） ⭐33 · `dsh plugin add @dsh-external/dsh-minigames`
 - [dsh-auto-chess](https://github.com/omdsh-dev/dsh-auto-chess) — 自走棋：人机对战或双 AI 对弈 ⭐2 · `dsh plugin add @deepseek-ai/dsh-auto-chess`
 - [dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) — 模型生成时弹出小游戏菜单（wordle/消消乐，可扩展） ⭐8 · `dsh plugin add @huanlin/dsh-plugin-d399`

@@ -1,6 +1,6 @@
 // 由 scripts/gen-web-data.mjs 自动生成，请勿手改。
 window.__DSH_DATA__ = {
-  "generatedAt": "2026-09-29T17:59:39.881Z",
+  "generatedAt": "2026-09-29T22:07:34.499Z",
   "source": "scripts/gen-web-data.mjs",
   "stats": {
     "plugins": 304,
@@ -689,7 +689,7 @@ window.__DSH_DATA__ = {
       "owner": "Small-tailqwq",
       "repo": "dsh-deep-whale",
       "description": "DSH Web 鲸鱼娘皮肤系列（深海女仆工坊）",
-      "stars": 2278,
+      "stars": 2279,
       "install": null,
       "category": "ui-themes"
     },
@@ -799,7 +799,7 @@ window.__DSH_DATA__ = {
       "owner": "omdsh-dev",
       "repo": "DSH-better-sidebar",
       "description": "侧边栏完整工作台：文件渲染编辑/终端/Git/子代理，支持三方注册 Tab",
-      "stars": 3892,
+      "stars": 3895,
       "install": "dsh plugin add dsh-better-sidebar",
       "category": "ui-themes"
     },
@@ -929,7 +929,7 @@ window.__DSH_DATA__ = {
       "owner": "omdsh-dev",
       "repo": "dsh-annotation",
       "description": "选中文字→批注→回车随消息发送，回复按批注逐条对照",
-      "stars": 130,
+      "stars": 131,
       "install": "dsh plugin add @omdsh-dev/dsh-annotation",
       "category": "ui-themes"
     },
@@ -1029,7 +1029,7 @@ window.__DSH_DATA__ = {
       "owner": "zhu1090093659",
       "repo": "dsh-web-ui",
       "description": "DSH Web UI 插件与皮肤集合：任务看板、Git 图谱、右侧面板、移动端远程、皮肤中心",
-      "stars": 8163,
+      "stars": 8167,
       "install": "dsh plugin add dsh-web-ui",
       "category": "ui-themes"
     },
@@ -1119,7 +1119,7 @@ window.__DSH_DATA__ = {
       "owner": "ccch1mneyyy",
       "repo": "dsh-TUI",
       "description": "Claude Code 风格全屏交互终端：像素鲸鱼顶栏、流式思考展开、双击 Esc 回滚、上下文/TPS 仪表",
-      "stars": 3798,
+      "stars": 3805,
       "install": "dsh plugin add dsh-cc-tui",
       "category": "desktop-tui-mobile"
     },
@@ -1229,7 +1229,7 @@ window.__DSH_DATA__ = {
       "owner": "dataelement",
       "repo": "dsh-desktop",
       "description": "跨平台桌面应用",
-      "stars": 10718,
+      "stars": 10723,
       "install": null,
       "category": "desktop-tui-mobile"
     },
@@ -1259,7 +1259,7 @@ window.__DSH_DATA__ = {
       "owner": "anywhere-labs",
       "repo": "deepseek-harness-desktop",
       "description": "现代化 DeepSeek Harness 桌面端体验",
-      "stars": 29507,
+      "stars": 29512,
       "install": null,
       "category": "desktop-tui-mobile"
     },
@@ -1339,7 +1339,7 @@ window.__DSH_DATA__ = {
       "owner": "NanmiCoder",
       "repo": "dsh-agent-teams",
       "description": "AgentTeams 多智能体团队协作",
-      "stars": 1846,
+      "stars": 1848,
       "install": "dsh plugin add dsh-agent-teams",
       "category": "agent-orchestration"
     },
@@ -1589,7 +1589,7 @@ window.__DSH_DATA__ = {
       "owner": "bowenliang123",
       "repo": "dsh-context",
       "description": "上下文洞察面板：展示模型上下文窗口的构成与演化",
-      "stars": 1568,
+      "stars": 1570,
       "install": "dsh plugin add dsh-context",
       "category": "context-memory"
     },
@@ -1839,7 +1839,7 @@ window.__DSH_DATA__ = {
       "owner": "ysr666",
       "repo": "dsh-vision-router",
       "description": "纯文本模型的视觉路由：免费视觉链 + 像素级视觉工具（问答/定位/裁剪/OCR）",
-      "stars": 1128,
+      "stars": 1129,
       "install": "dsh plugin add dsh-vision-router",
       "category": "multimodal"
     },
@@ -1899,7 +1899,7 @@ window.__DSH_DATA__ = {
       "owner": "titanwings",
       "repo": "dsh-automation",
       "description": "定时任务：Coding 任务按计划在全新 Agent Session 中运行",
-      "stars": 100,
+      "stars": 101,
       "install": "dsh plugin add @dsh-external/dsh-automation",
       "category": "workflow-automation"
     },
@@ -1919,7 +1919,7 @@ window.__DSH_DATA__ = {
       "owner": "titanwings",
       "repo": "dsh-plannotator",
       "description": "计划批注：选中计划原文逐条批注并回送结构化反馈",
-      "stars": 11,
+      "stars": 12,
       "install": "dsh plugin add @dsh-external/dsh-plannotator",
       "category": "workflow-automation"
     },
@@ -2099,7 +2099,7 @@ window.__DSH_DATA__ = {
       "owner": "Jesse-njx",
       "repo": "dsh-chatnode-wechat",
       "description": "通过 iLink 网关在微信里与 DSH agent 聊天/监控/审批",
-      "stars": 5,
+      "stars": 6,
       "install": "dsh plugin add @dsh-cowork/chatnode-wechat",
       "category": "notifications-channels"
     },
@@ -2129,7 +2129,7 @@ window.__DSH_DATA__ = {
       "owner": "xmanrui",
       "repo": "dsh-im",
       "description": "一个设置入口统一接入飞书/微信/钉钉/企业微信/QQ/Slack/Telegram/Discord/WhatsApp 机器人，支持扫码、Manifest 或凭据绑定 · `npx -y github:xmanrui/dsh-im install`",
-      "stars": 1542,
+      "stars": 1544,
       "install": null,
       "category": "notifications-channels"
     },
@@ -2279,7 +2279,7 @@ window.__DSH_DATA__ = {
       "owner": "Fisfzy",
       "repo": "ego-browser",
       "description": "把 ego-lite（给 AI Agent 的 Chromium）接入 DSH，13 个结构化 ego_* 工具",
-      "stars": 198,
+      "stars": 199,
       "install": null,
       "category": "browser-search"
     },
@@ -2289,7 +2289,7 @@ window.__DSH_DATA__ = {
       "owner": "titanwings",
       "repo": "dsh-better-browser",
       "description": "通过 Kimi WebBridge 让 Agent 操作用户已登录浏览器（13 个工具）",
-      "stars": 10,
+      "stars": 11,
       "install": "dsh plugin add @dsh-external/dsh-better-browser",
       "category": "browser-search"
     },
@@ -2339,7 +2339,7 @@ window.__DSH_DATA__ = {
       "owner": "zhu1090093659",
       "repo": "deepseek-pp",
       "description": "浏览器扩展 AI Agent 工作区，内置 MCP 与记忆",
-      "stars": 1870,
+      "stars": 1871,
       "install": null,
       "category": "browser-search"
     },
@@ -2409,7 +2409,7 @@ window.__DSH_DATA__ = {
       "owner": "taxueseek",
       "repo": "argo",
       "description": "为 agent 打造的多语言搜索工具（中文/英文/学术/代码/购物/金融/新闻/百科）",
-      "stars": 154,
+      "stars": 155,
       "install": "dsh plugin add github:taxueseek/argo",
       "category": "browser-search"
     },
@@ -2729,7 +2729,7 @@ window.__DSH_DATA__ = {
       "owner": "dsh-market",
       "repo": "dsh-market",
       "description": "DSH 可视化插件市场：浏览/搜索/一键安装",
-      "stars": 4965,
+      "stars": 4969,
       "install": "dsh plugin add github:dsh-market/dsh-market",
       "category": "infrastructure-dev"
     },
@@ -2749,7 +2749,7 @@ window.__DSH_DATA__ = {
       "owner": "omdsh-dev",
       "repo": "dsh-gomoku",
       "description": "与 AI 下五子棋，也可双 AI 对弈比棋力",
-      "stars": 25,
+      "stars": 26,
       "install": "dsh plugin add @deepseek-ai/dsh-gomoku",
       "category": "fun-other"
     },
@@ -3069,7 +3069,7 @@ window.__DSH_DATA__ = {
       "owner": "deepseek-ai",
       "repo": "deepseek-harness",
       "description": "官方核心仓库：「一切皆插件」，Cordis 驱动",
-      "stars": 239864,
+      "stars": 239952,
       "install": null,
       "category": "official-meta"
     },
@@ -3089,7 +3089,7 @@ window.__DSH_DATA__ = {
       "owner": "awesome-dsh-plugin",
       "repo": "awesome-dsh-plugin",
       "description": "社区精选列表（105 插件 + 站点 + 徽章）",
-      "stars": 17281,
+      "stars": 17293,
       "install": null,
       "category": "official-meta"
     },
@@ -3109,7 +3109,7 @@ window.__DSH_DATA__ = {
       "owner": "0xsline",
       "repo": "awesome-deepseek-harness",
       "description": "DSH 生态精选：插件/工具/基础设施",
-      "stars": 1117,
+      "stars": 1118,
       "install": null,
       "category": "official-meta"
     },
@@ -3119,7 +3119,7 @@ window.__DSH_DATA__ = {
       "owner": "AdamPlatin123",
       "repo": "awesome-dsh-plugins",
       "description": "目录 + **每日兼容性雷达**（四维检查 + 运行实测）",
-      "stars": 1464,
+      "stars": 1465,
       "install": null,
       "category": "official-meta"
     },
