@@ -10,7 +10,7 @@
 - [dsh-superpowers](https://github.com/codeAnqiang-ma/dsh-superpowers) — Superpowers（obra/superpowers）作为 DSH 插件：方法论技能 + 会话引导 ⭐8 · `dsh plugin add dsh-superpowers`
 - [dsh-plugin-code-review](https://github.com/YYTbit/dsh-plugin-code-review) — 结构化代码审查技能（YYTbit 系列） · `dsh plugin add dsh-plugin-code-review`
 - [dsh-review-loop](https://github.com/wuxiangru915/dsh-review-loop) — 增量 diff 审查：checkpoint 队列 + Web 面板 + 审查意见注入 agent ⭐1 · `dsh plugin add @dsh-plugin/dsh-review-loop`
-- [dsh-plugin-claude-bridge](https://github.com/YYTbit/dsh-plugin-claude-bridge) — 把 Claude Code 记忆/技能/配置桥接进 DSH ⭐9 · `dsh plugin add dsh-plugin-claude-bridge`
+- [dsh-plugin-claude-bridge](https://github.com/YYTbit/dsh-plugin-claude-bridge) — 把 Claude Code 记忆/技能/配置桥接进 DSH ⭐8 · `dsh plugin add dsh-plugin-claude-bridge`
 - [dsh-plugin-codex-bridge](https://github.com/YYTbit/dsh-plugin-codex-bridge) — 把 Codex skills/config 桥接进 DSH ⭐2 · `dsh plugin add dsh-plugin-codex-bridge`
 - [dsh-plugin-opencode-bridge](https://github.com/YYTbit/dsh-plugin-opencode-bridge) — 把 OpenCode skills/config 桥接进 DSH ⭐4 · `dsh plugin add dsh-plugin-opencode-bridge`
 - [dsh-plugin-pi-bridge](https://github.com/YYTbit/dsh-plugin-pi-bridge) — 把 pi skills/config 桥接进 DSH ⭐2 · `dsh plugin add dsh-plugin-pi-bridge`
