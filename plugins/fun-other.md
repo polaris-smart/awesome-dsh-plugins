@@ -5,7 +5,7 @@
 ## 游戏
 
 - [dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku) — 与 AI 下五子棋，也可双 AI 对弈比棋力 ⭐26 · `dsh plugin add @deepseek-ai/dsh-gomoku`
-- [dsh-minigames](https://github.com/lhh010/dsh-minigames) — 右侧 18 款离线小游戏面板（恐龙跳一跳/俄罗斯方块/扫雷/2048…） ⭐33 · `dsh plugin add @dsh-external/dsh-minigames`
+- [dsh-minigames](https://github.com/lhh010/dsh-minigames) — 右侧 18 款离线小游戏面板（恐龙跳一跳/俄罗斯方块/扫雷/2048…） ⭐34 · `dsh plugin add @dsh-external/dsh-minigames`
 - [dsh-auto-chess](https://github.com/omdsh-dev/dsh-auto-chess) — 自走棋：人机对战或双 AI 对弈 ⭐2 · `dsh plugin add @deepseek-ai/dsh-auto-chess`
 - [dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) — 模型生成时弹出小游戏菜单（wordle/消消乐，可扩展） ⭐9 · `dsh plugin add @huanlin/dsh-plugin-d399`
 
@@ -21,20 +21,20 @@
 
 ## 整活 / 音效 / 趣味
 
-- [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) — 2005 中文站点风格整活广告（侧栏/信息流/弹窗，素材全虚构） ⭐643 · `dsh plugin add @dsh-external/dsh-ads`
-- [dsh-stock-market](https://github.com/AnacondaKC/dsh-stock-market) — 股票行情数据插件（整活向） ⭐20 · `dsh plugin add dsh-stock-market`
+- [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) — 2005 中文站点风格整活广告（侧栏/信息流/弹窗，素材全虚构） ⭐645 · `dsh plugin add @dsh-external/dsh-ads`
+- [dsh-stock-market](https://github.com/AnacondaKC/dsh-stock-market) — 股票行情数据插件（整活向） ⭐19 · `dsh plugin add dsh-stock-market`
 - [dsh-douyin](https://github.com/AnacondaKC/dsh-douyin) — 侧栏短视频：原生播放器、系列导航、历史回放 ⭐5 · `dsh plugin add dsh-douyin`
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — 每次消息后注入感谢语，做个有礼貌的人 ⭐14 · `dsh plugin add deepseek-manners`
 - [dsh-sound-effects-plugin](https://github.com/JasonJin2006/dsh-sound-effects-plugin) — Reasonix 风格音效（生成式五声音阶环境音 + 提示音） ⭐2 · `dsh plugin add dsh-sound-effects-plugin`
 - [dsh-fun-typewriter](https://github.com/omdsh-dev/dsh-fun-typewriter) — WebAudio 打字机氛围音效（零音频资源） ⭐2 · `dsh plugin add @deepseek-ai/dsh-fun-typewriter`
 - [dsh-daily-fortune](https://github.com/omdsh-dev/dsh-daily-fortune) — 每日运势：观音签、塔罗、每日一句 ⭐3 · `dsh plugin add @deepseek-ai/dsh-daily-fortune`
 - [dsh-plugin-spur](https://github.com/HuanLinOTO/dsh-plugin-spur) — 挂在聊天流里的辫子，抓住甩一甩给 agent 发「去干活」 ⭐5 · `dsh plugin add @huanlin/dsh-plugin-spur`
-- [dsh-toy](https://github.com/c3ll256/dsh-toy) — 连接小型玩具到 DSH（Toy Control Protocol） ⭐66 · `dsh plugin add dsh-toy`
+- [dsh-toy](https://github.com/c3ll256/dsh-toy) — 连接小型玩具到 DSH（Toy Control Protocol） ⭐67 · `dsh plugin add dsh-toy`
 
 ## 教学 / 学习 / 研究
 
 - [dsh-learn-everything](https://github.com/cendaifeng/dsh-learn-everything) — 费曼学习模式：教→讲回→判→再解释，渲染为富 HTML 课程卡 ⭐7 · `dsh plugin add dsh-learn-everything`
-- [dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) — OpenMAIC 教学：课堂、幻灯片、交互组件、苏格拉底式教学 ⭐85 · `dsh plugin add @openmaic/dsh-openmaic`
+- [dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) — OpenMAIC 教学：课堂、幻灯片、交互组件、苏格拉底式教学 ⭐86 · `dsh plugin add @openmaic/dsh-openmaic`
 - [dsh-scholar](https://github.com/lzszq/dsh-scholar) — 学术助手插件 ⭐46 · `dsh plugin add @dsh-scholar/research-plugin`
 - [dsh-101](https://github.com/bill9109/dsh-101) — DSH 文档阅读模式 ⭐6 · `dsh plugin add @dsh-external/dsh-101`
 - [dsh-reasoning-translator](https://github.com/pinkllo/dsh-reasoning-translator) — 让模型的思维链用你的语言输出 ⭐2 · `dsh plugin add dsh-reasoning-translator`
@@ -44,7 +44,7 @@
 - [dsh-director-toolkit](https://github.com/lhmd/dsh-director-toolkit) — 3D 艺术家/技术美术方向包：Blender/Three.js/Houdini/C4D 方向指引 ⭐8 · `dsh plugin add @lhmd/dsh-director-toolkit`
 - [dsh-apple-mode](https://github.com/jihongboo/dsh-apple-mode) — Xcode AI 集成：26 个 Xcode MCP 工具 + Apple 平台技能 · `dsh plugin add dsh-apple-mode`
 - [notes](https://github.com/zhaoolee/notes) — 开源版锤子便签：导出 DSH 会话为便签图片，支持 skill 调用 ⚠️ 无 license 文件 ⭐175
-- [dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — DSH 会话费用统计（本会话/当日/历史 + 官方价格同步） ⭐361 · `dsh plugin add github:Han-1413141/dsh-cost-meter`
+- [dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — DSH 会话费用统计（本会话/当日/历史 + 官方价格同步） ⭐362 · `dsh plugin add github:Han-1413141/dsh-cost-meter`
 - [dsh-user-experience](https://github.com/DietCokewithSugar/dsh-user-experience) — persona 驱动的 UX 走查：扫描 React/TS 源码找 UX 问题 ⭐20 · `dsh plugin add github:DietCokewithSugar/dsh-user-experience`
 - [dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) — DeepSeek 账户余额与会话成本显示 ⭐19 · `dsh plugin add github:Ghost011118/dsh-balance-meter`
 - [dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) — 中文小说写作助手：句式/情感/意象分析、文笔六维基线带（μ±σ 对照）、12 轴氛围光谱、风格画像报告、本地语义检索（0 token）+ 伏笔设定管理，15 个工具 ⭐18 · `dsh plugin add dsh-novel-writer`
