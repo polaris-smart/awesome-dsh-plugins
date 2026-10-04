@@ -2,12 +2,12 @@
 
 > **视觉与多模态**：图片问答、OCR、UI 还原、截图对比、VLM 桥接、电脑控制（GUI）。返回 [目录](../README.md#分类目录)
 
-- [modlens](https://github.com/liustack/modlens) — DSH 首个视觉插件：粘贴图片返回结构化 JSON 证据（OCR/布局/语义） ⭐4116 · `dsh plugin add @liustack/modlens`
+- [modlens](https://github.com/liustack/modlens) — DSH 首个视觉插件：粘贴图片返回结构化 JSON 证据（OCR/布局/语义） ⭐4120 · `dsh plugin add @liustack/modlens`
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — 纯文本模型的视觉工具箱：图片问答、长截图 OCR、UI 还原、定位、像素对比、Artifacts ⭐885 · `dsh plugin add @dsh-external/dsh-vision-toolkit`
 - [agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) — 同上，agent 通用视觉工具箱与技能（多图理解/GUI 自动化） ⭐1213
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) — view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档） ⭐30
 - [dsh-vision-LMstudio](https://github.com/TiankunDai/dsh-vision-LMstudio) — 通过 LM Studio 调用本地视觉模型 ⭐1
-- [dsh-vision-proxy](https://github.com/Flyvhidbwo/dsh-vision-proxy) — DeepSeek 大脑 + 自动识图（图片经 Qwen VLM 转文字后作答） ⭐15 · `dsh plugin add dsh-vision-proxy`
+- [dsh-vision-proxy](https://github.com/Flyvhidbwo/dsh-vision-proxy) — DeepSeek 大脑 + 自动识图（图片经 Qwen VLM 转文字后作答） ⭐16 · `dsh plugin add dsh-vision-proxy`
 - [dsh-plugin-deepeye](https://github.com/Favio8/dsh-plugin-deepeye) — DeepEye 视觉插件：图片描述/OCR/VQA/UI 布局/剪贴板分析 ⭐3 · `dsh plugin add dsh-plugin-deepeye`
 - [deepseek-omnimodal](https://github.com/good-boy4069/Deepseek-omnimodal) — 开源多模态 MCP 插件：经 Qwen/DashScope 识别/生成图像、视频、音频（兼容 Codex/Claude Code/DSH） ⭐4
 - [sidesight](https://github.com/ZhuXinAI/sidesight) — CLI 优先的视觉 sidecar：分析截图/图表/UI diff/视频（OpenAI 兼容多模态模型） ⭐2 · `dsh plugin add sidesight`
