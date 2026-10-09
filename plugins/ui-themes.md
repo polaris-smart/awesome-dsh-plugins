@@ -5,7 +5,7 @@
 ## 皮肤 / 主题
 
 - [dsh-skins](https://github.com/Moeblack/dsh-skins) — Web UI 皮肤合集（含 harbor 夕港黄昏皮肤） ⭐2 · `dsh plugin add @dsh-external/dsh-web-skins`
-- [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) — DSH Web 鲸鱼娘皮肤系列（深海女仆工坊） ⭐2490
+- [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) — DSH Web 鲸鱼娘皮肤系列（深海女仆工坊） ⭐2491
 - [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) — QQ2006 复古皮肤 ⭐30
 - [dsh-deepcel](https://github.com/Small-tailqwq/dsh-deepcel) — 模仿 Excel 的皮肤 ⭐14
 - [dsh-tonghuashun](https://github.com/AdamPlatin123/dsh-tonghuashun) — 同花顺行情终端风格皮肤 + 代码量 K 线面板 ⭐2
@@ -45,7 +45,7 @@
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) — DSH Web UI 插件与皮肤集合：任务看板、Git 图谱、右侧面板、移动端远程、皮肤中心 ⭐8557 · `dsh plugin add dsh-web-ui`
 - [dsh-plugin-open-app](https://github.com/2nd1st/dsh-plugin-open-app) — 把 open-mcp-apps 带进 DSH：每个 MCP app 一个侧边栏容器（独立 workspace + 会话 + App mode），带 agent 状态条、聊天内行内渲染与 App Store · `dsh plugin --profile web add @2nd1st/dsh-plugin-open-app` ⭐8
 - [dsh-ui-hub](https://github.com/Han-1413141/dsh-ui-hub) — UI 管家：官方/插件 UI 分区折叠、逐条开关，拖拽移动/改大小，碰撞避让与一键自动排布 · `dsh plugin --profile web add github:Han-1413141/dsh-ui-hub` ⭐4
-- [dsh-easyrewrite](https://github.com/Renzic-Stone/DSH-EasyRewrite) — DSH Web 用户消息气泡内联编辑与撤回：惰性提交、无痕替换、版本翻页器、草稿自动备份、三语 i18n ⭐124 · `dsh plugin add dsh-easyrewrite`
+- [dsh-easyrewrite](https://github.com/Renzic-Stone/DSH-EasyRewrite) — DSH Web 用户消息气泡内联编辑与撤回：惰性提交、无痕替换、版本翻页器、草稿自动备份、三语 i18n ⭐125 · `dsh plugin add dsh-easyrewrite`
 - [dsh-meow-smooth](https://github.com/Phant0Meow/dsh-meow-smooth) — 手机优先的 DSH 前端体验优化：输入框失焦自动折叠、手机回车换行、侧边栏/顶部栏压缩、设置页适配、禁缩放回弹，外加长任务完成/权限申请/提问通知（Web Push/Bark webhook） ⭐59 · `dsh plugin add meow-smooth`
 
 ## 生成式 UI / 组件
