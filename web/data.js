@@ -1,6 +1,6 @@
 // 由 scripts/gen-web-data.mjs 自动生成，请勿手改。
 window.__DSH_DATA__ = {
-  "generatedAt": "2026-10-08T18:19:32.202Z",
+  "generatedAt": "2026-10-09T00:56:01.469Z",
   "source": "scripts/gen-web-data.mjs",
   "stats": {
     "plugins": 304,
@@ -1029,7 +1029,7 @@ window.__DSH_DATA__ = {
       "owner": "zhu1090093659",
       "repo": "dsh-web-ui",
       "description": "DSH Web UI 插件与皮肤集合：任务看板、Git 图谱、右侧面板、移动端远程、皮肤中心",
-      "stars": 8516,
+      "stars": 8519,
       "install": "dsh plugin add dsh-web-ui",
       "category": "ui-themes"
     },
@@ -1119,7 +1119,7 @@ window.__DSH_DATA__ = {
       "owner": "ccch1mneyyy",
       "repo": "dsh-TUI",
       "description": "Claude Code 风格全屏交互终端：像素鲸鱼顶栏、流式思考展开、双击 Esc 回滚、上下文/TPS 仪表",
-      "stars": 4192,
+      "stars": 4196,
       "install": "dsh plugin add dsh-cc-tui",
       "category": "desktop-tui-mobile"
     },
@@ -1229,7 +1229,7 @@ window.__DSH_DATA__ = {
       "owner": "dataelement",
       "repo": "dsh-desktop",
       "description": "跨平台桌面应用",
-      "stars": 12359,
+      "stars": 12373,
       "install": null,
       "category": "desktop-tui-mobile"
     },
@@ -1259,7 +1259,7 @@ window.__DSH_DATA__ = {
       "owner": "anywhere-labs",
       "repo": "deepseek-harness-desktop",
       "description": "现代化 DeepSeek Harness 桌面端体验",
-      "stars": 30184,
+      "stars": 30183,
       "install": null,
       "category": "desktop-tui-mobile"
     },
@@ -1339,7 +1339,7 @@ window.__DSH_DATA__ = {
       "owner": "NanmiCoder",
       "repo": "dsh-agent-teams",
       "description": "AgentTeams 多智能体团队协作",
-      "stars": 1977,
+      "stars": 1978,
       "install": "dsh plugin add dsh-agent-teams",
       "category": "agent-orchestration"
     },
@@ -1439,7 +1439,7 @@ window.__DSH_DATA__ = {
       "owner": "csyangwen",
       "repo": "dsh-memory-evolve",
       "description": "跨会话长期记忆 + 后台自我进化（五轨记忆/git 分支感知/技能进化）",
-      "stars": 365,
+      "stars": 366,
       "install": null,
       "category": "context-memory"
     },
@@ -1449,7 +1449,7 @@ window.__DSH_DATA__ = {
       "owner": "Tyan66666",
       "repo": "billion-context-dsh",
       "description": "模型驱动上下文压缩（ACP）：模型决定何时压缩（移植自 billion-context-pi）",
-      "stars": 134,
+      "stars": 135,
       "install": null,
       "category": "context-memory"
     },
@@ -1479,7 +1479,7 @@ window.__DSH_DATA__ = {
       "owner": "omdsh-dev",
       "repo": "dsh-mnemon",
       "description": "Mnemon 本地三层记忆（Runtime Memory/可检索文档/受监督 Memory Spaces）",
-      "stars": 473,
+      "stars": 474,
       "install": "dsh plugin add dsh-mnemon",
       "category": "context-memory"
     },
@@ -1679,7 +1679,7 @@ window.__DSH_DATA__ = {
       "owner": "liustack",
       "repo": "modlens",
       "description": "DSH 首个视觉插件：粘贴图片返回结构化 JSON 证据（OCR/布局/语义）",
-      "stars": 4166,
+      "stars": 4167,
       "install": "dsh plugin add @liustack/modlens",
       "category": "multimodal"
     },
@@ -2279,7 +2279,7 @@ window.__DSH_DATA__ = {
       "owner": "Fisfzy",
       "repo": "ego-browser",
       "description": "把 ego-lite（给 AI Agent 的 Chromium）接入 DSH，13 个结构化 ego_* 工具",
-      "stars": 215,
+      "stars": 216,
       "install": null,
       "category": "browser-search"
     },
@@ -2399,7 +2399,7 @@ window.__DSH_DATA__ = {
       "owner": "liustack",
       "repo": "modsearch",
       "description": "CLI 搜索工具：把搜索查询转结构化 web 证据 JSON",
-      "stars": 608,
+      "stars": 609,
       "install": "dsh plugin add @liustack/modsearch",
       "category": "browser-search"
     },
@@ -2729,7 +2729,7 @@ window.__DSH_DATA__ = {
       "owner": "dsh-market",
       "repo": "dsh-market",
       "description": "DSH 可视化插件市场：浏览/搜索/一键安装",
-      "stars": 5862,
+      "stars": 5865,
       "install": "dsh plugin add github:dsh-market/dsh-market",
       "category": "infrastructure-dev"
     },
@@ -3029,7 +3029,7 @@ window.__DSH_DATA__ = {
       "owner": "Han-1413141",
       "repo": "dsh-cost-meter",
       "description": "DSH 会话费用统计（本会话/当日/历史 + 官方价格同步）",
-      "stars": 382,
+      "stars": 383,
       "install": "dsh plugin add github:Han-1413141/dsh-cost-meter",
       "category": "fun-other"
     },
@@ -3069,7 +3069,7 @@ window.__DSH_DATA__ = {
       "owner": "deepseek-ai",
       "repo": "deepseek-harness",
       "description": "官方核心仓库：「一切皆插件」，Cordis 驱动",
-      "stars": 245630,
+      "stars": 245687,
       "install": null,
       "category": "official-meta"
     },
@@ -3089,7 +3089,7 @@ window.__DSH_DATA__ = {
       "owner": "awesome-dsh-plugin",
       "repo": "awesome-dsh-plugin",
       "description": "社区精选列表（105 插件 + 站点 + 徽章）",
-      "stars": 18093,
+      "stars": 18096,
       "install": null,
       "category": "official-meta"
     },
