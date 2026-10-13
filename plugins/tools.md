@@ -13,7 +13,7 @@
 - [dsh-tool-schema](https://github.com/omdsh-dev/dsh-tool-schema) — JSON Schema 验证：validate/paths/explain/normalize ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-schema`
 - [dsh-tool-stat](https://github.com/omdsh-dev/dsh-tool-stat) — 描述统计/百分位数/频数分布/相关性 ⭐5 · `dsh plugin add @deepseek-ai/dsh-tool-stat`
 - [dsh-tool-time](https://github.com/omdsh-dev/dsh-tool-time) — 严格 ISO 8601 解析、IANA 时区、UTC 日历运算 ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-time`
-- [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) — 结构化 Git 工具（status/diff/log/branch/stage/commit/stash/show）+ 危险命令守卫 ⭐3 · `dsh plugin add dsh-tool-git`
+- [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) — 结构化 Git 工具（status/diff/log/branch/stage/commit/stash/show）+ 危险命令守卫 ⭐4 · `dsh plugin add dsh-tool-git`
 - [dsh-test-runner](https://github.com/suimi8/dsh-test-runner) — 结构化 test_run：自动探测 vitest/jest/pytest/node:test 并解析失败摘要 ⭐2 · `dsh plugin add dsh-test-runner`
 - [dsh-security-scan](https://github.com/ben7am1n/dsh-security-scan) — 密钥/危险模式扫描（API key/token/私钥脱敏，零依赖） · `dsh plugin add dsh-security-scan`
 - [dsh-tool-search](https://github.com/vibeinging/dsh-tool-search) — 按 agent 的按需工具发现 + 渐进式 schema 披露 ⭐1 · `dsh plugin add @deepseek-ai/dsh-tool-search`
