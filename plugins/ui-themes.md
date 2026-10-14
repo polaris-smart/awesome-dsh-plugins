@@ -51,7 +51,7 @@
 ## 生成式 UI / 组件
 
 - [dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) — 对话内生成式 UI：模型把交互式 HTML 卡片直接画进会话流，带流式预览 ⭐303 · `dsh plugin add @dsh-external/dsh-visualize`
-- [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — 助手回复内渲染交互式 UI 组件：布局、图表、表单、测验、mermaid、3D 场景 ⭐576 · `dsh plugin add @omdsh-dev/dsh-genui`
+- [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — 助手回复内渲染交互式 UI 组件：布局、图表、表单、测验、mermaid、3D 场景 ⭐577 · `dsh plugin add @omdsh-dev/dsh-genui`
 - [web-components](https://github.com/omdsh-dev/web-components) — Web Components 支持 ⭐1 · `dsh plugin add @deepseek-ai/dsh-client-web-component`
 - [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) — OpenPencil 设计预览与编辑（Agent 操作真实设计画布） ⭐184 · `dsh plugin add @zseven-w/dsh-openpencil`
 
