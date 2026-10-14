@@ -30,7 +30,7 @@
 - [dsh-undo](https://github.com/LingLambda/dsh-undo) — 上下文 undo/redo：回退到上一个已完成步骤并恢复 ⭐4 · `dsh plugin add dsh-undo`
 - [dsh-recall](https://github.com/Mongfayi/dsh-recall) — 消息撤回：每条用户消息一个撤销按钮，删除该轮及其后内容（不改代码） ⭐2 · `dsh plugin add dsh-recall`
 - [dsh-sidechain](https://github.com/omdsh-dev/dsh-sidechain) — `/side` 持续性侧会话与 `/btw` 一次性侧问，在临时 fork 中运行 ⭐14 · `dsh plugin add @dsh-external/dsh-sidechain`
-- [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — 基于分支的消息编辑、reroll、重试与版本时间线 ⭐51 · `dsh plugin add dsh-message-edit`
+- [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — 基于分支的消息编辑、reroll、重试与版本时间线 ⭐52 · `dsh plugin add dsh-message-edit`
 - [dsh-session-search](https://github.com/Tieboyh/dsh-session-search) — 跨 dsh/Codex/Claude/pi/OpenCode 会话的无索引全文搜索 ⭐1
 - [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — 13 源全保真导入（Claude Code/Codex/ChatGPT/Cursor/Gemini/Reasonix/opencode/ZCode/Grok Build/OpenClaw/Pi/Hermes/Kimi）历史会话为可续聊 DSH 会话 ⭐231 · `dsh plugin add dsh-chat-import`
 - [dsh-claude-move](https://github.com/PerryLink/dsh-claude-move) — 迁移 Claude Code 会话/记忆/技能/CLAUDE.md 到 DSH ⭐28 · `dsh plugin add dsh-claude-move`
