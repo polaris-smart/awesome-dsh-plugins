@@ -2,7 +2,7 @@
 
 > 面向模型的**确定性工具**：计算、编码、JSON/CSV/正则、git、测试运行、安全删除、payload 捕获等。返回 [目录](../README.md#分类目录)
 
-- [dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) — 零依赖工具十件套（time/encoding/json/calculator/csv/regex/markdown/diff/stat/schema）一键安装 ⭐30 · `dsh plugin add @deepseek-ai/dsh-toolkit`
+- [dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) — 零依赖工具十件套（time/encoding/json/calculator/csv/regex/markdown/diff/stat/schema）一键安装 ⭐31 · `dsh plugin add @deepseek-ai/dsh-toolkit`
 - [dsh-tool-calculator](https://github.com/omdsh-dev/dsh-tool-calculator) — 安全的数学表达式求值器，零依赖递归下降解析器 ⭐9 · `dsh plugin add @deepseek-ai/dsh-tool-calculator`
 - [dsh-tool-csv](https://github.com/omdsh-dev/dsh-tool-csv) — CSV 解析/查询/统计/转换（RFC 4180） ⭐4 · `dsh plugin add @deepseek-ai/dsh-tool-csv`
 - [dsh-tool-diff](https://github.com/omdsh-dev/dsh-tool-diff) — 文本/JSON/CSV/Markdown 结构化比较与 unified diff ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-diff`
@@ -24,7 +24,7 @@
 - [dsh-safe-delete](https://github.com/Qintsg/dsh-safe-delete) — 安全删除：移入回收站/暂存区而非永久删除，支持恢复 ⭐1
 - [dsh-bisect-debug](https://github.com/PangYiMing/dsh-bisect-debug) — 二分法定位 bug 根因（代码/边界/commit） · `dsh plugin add dsh-bisect-debug`
 - [dsh-payload-capture](https://github.com/Moeblack/dsh-payload-capture) — 捕捉每次上行模型 API payload 落盘 JSON（调试/可观测） · `dsh plugin add dsh-payload-capture`
-- [dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) — 让 AI 帮你连数据库、写 SQL ⭐208 · `dsh plugin add @deepseek-ai/dsh-data-agent`
+- [dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) — 让 AI 帮你连数据库、写 SQL ⭐209 · `dsh plugin add @deepseek-ai/dsh-data-agent`
 - [dsh-openapi](https://github.com/Degurechaff57/dsh-openapi) — Safe OpenAPI 3.x 发现与 API 调用工具 ⭐3 · `dsh plugin add dsh-openapi`
 - [dsh-plugin-interpreters](https://github.com/HuanLinOTO/dsh-plugin-interpreters) — 暴露 run_python / run_node 工具，可配置解释器路径 ⭐9 · `dsh plugin add @huanlin/dsh-plugin-interpreters`
 - [dsh-cowork](https://github.com/Jesse-njx/dsh-cowork) — doc_read/doc_write：以有界、单元格寻址方式读写 xlsx/pdf/docx/pptx/ipynb ⭐4
