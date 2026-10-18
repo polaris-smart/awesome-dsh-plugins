@@ -8,7 +8,7 @@
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — 模型驱动上下文压缩（ACP）：模型决定何时压缩（移植自 billion-context-pi） ⭐156
 - [dsh-memory](https://github.com/Jesse-njx/dsh-memory) — 基于无损会话日志的引用式记忆（事实带 sessionId/eventRange 引用） ⭐1 · `dsh plugin add @dsh-memory/bundle`
 - [dsh-memory](https://github.com/ben7am1n/dsh-memory) — 跨会话 SQLite 持久记忆 · `dsh plugin add dsh-memory`
-- [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) — Mnemon 本地三层记忆（Runtime Memory/可检索文档/受监督 Memory Spaces） ⭐580 · `dsh plugin add dsh-mnemon`
+- [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) — Mnemon 本地三层记忆（Runtime Memory/可检索文档/受监督 Memory Spaces） ⭐581 · `dsh plugin add dsh-mnemon`
 - [nowledge-mem-deepseek-harness](https://github.com/nowledge-co/nowledge-mem-deepseek-harness) — 给所有 AI 工具共用的一层记忆（Context Bundle 注入 + MCP 工具 + 线程捕获） ⭐8 · `dsh plugin add nowledge-mem-deepseek-harness`
 - [dsh-plugin-meta-memory](https://github.com/YYTbit/dsh-plugin-meta-memory) — 结构化长期记忆系统 ⭐5 · `dsh plugin add dsh-plugin-meta-memory`
 - [dsh-kb-sieve](https://github.com/omdsh-dev/dsh-kb-sieve) — 从 md/txt/docx/pdf 构建可审计知识库包（SQLite FTS5） ⭐2 · `dsh plugin add @dsh-external/dsh-kb-sieve`
